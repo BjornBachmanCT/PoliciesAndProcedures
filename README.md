@@ -1,5 +1,4 @@
 # Policies And Procedures
----
 ## Background
 IT Operations for Small business requires, as for larger, describing documentation on how to handle IT environment and information. 
 Such as
